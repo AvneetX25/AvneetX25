@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AvneetX25
 - 👀 I’m interested in exploring new things
-- 🌱 I’m currently learning machine learning and artificial intelligence
+- 🌱 I’m currently learning java full stack developement
 - 📫 How to reach me @avneetkaurx56@gmail.com
 - 😄 Pronouns: She/Her
   
