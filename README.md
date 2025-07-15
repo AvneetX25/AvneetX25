@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AvneetX25
+- 👋 Hi, I’m Avneet
 - 👀 I’m interested in exploring new things
 - 🌱 I’m currently learning java full stack developement
 - 📫 How to reach me avneetkaurx56@gmail.com
